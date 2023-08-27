@@ -1,6 +1,7 @@
 # BinarySearch-RahulPandey
 This repository contains all the code from my __[Binary Search Youtube Playlist](https://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)__
 
+![Ultimate Generic Binary Search Template](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic-BinarySearch-Template.png)
 ### The Ultimate Binary Search Template for all BS solutions
 ---
 __1. Standard Binary Search:__<br>
