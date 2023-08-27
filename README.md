@@ -13,7 +13,7 @@ __2. LowerBound and UpperBound__<br>
 
 __3. Generic Binary Search Template__<br>
 [Video](https://youtu.be/o3u-_gEUAVk)<br>
-[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic%20BS%20Template.cpp)<br>
+[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic%20BS%20Template.cpp)<br><br>
 
 
 ### Practice Problems on Binary Search
