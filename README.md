@@ -1,5 +1,5 @@
 # BinarySearch-RahulPandey
-This repository contains all the code from my __[Binary Youtube Playlist]__(https://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)
+This repository contains all the code from my __[Binary Youtube Playlist](https://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)__
 
 ### The Ultimate Binary Search Template for all BS solutions
 ---
