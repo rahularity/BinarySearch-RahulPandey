@@ -64,38 +64,41 @@ __12. Problem 12: Single Element in a Sorted Array__<br>
 __13. Problem 13: Median of Two Sorted Arrays__<br> 
 [Problem Statement](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-<br><br>
+<br>
 
 ---
 
-## Binary Search on answer:
+## Binary Search on Answer:
 ### Easy: <br>
 
 __• Arranging Coins__<br>
 [Problem Statement](https://leetcode.com/problems/arranging-coins/)
 
 
-## Medium:<br>
+### Medium:
 __• Minimum Size Subarray Sum__<br>
 [Problem Statement](https://leetcode.com/problems/minimum-size-subarray-sum/) <br>
 
 __• Capacity To Ship Packages Within D Days__<br> 
 [Problem Statement](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) <br>
 
-__• Kth Smallest Element in a Sorted Matrix__<br>
-[Problem Statement](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) <br>
+__• Koko Eating Bananas__<br> 
+[Problem Statement](https://leetcode.com/problems/koko-eating-bananas/) <br>
+
+__• Heaters__<br> 
+[Problem Statement](https://leetcode.com/problems/heaters/) <br>
 
 __• Find the Duplicate Number__<br> 
 [Problem Statement](https://leetcode.com/problems/find-the-duplicate-number/) <br>
+
+__• Kth Smallest Element in a Sorted Matrix__<br>
+[Problem Statement](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) <br>
 
 __• Minimum Size Subarray Sum__<br> 
 [Problem Statement](https://leetcode.com/problems/minimum-size-subarray-sum/) <br>
 
 __• Minimum Limit of Balls in a Bag__<br> 
 [Problem Statement](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) <br>
-
-__• Koko Eating Bananas__<br> 
-[Problem Statement](https://leetcode.com/problems/koko-eating-bananas/) <br>
 
 __• Path With Minimum Effort__<br> 
 [Problem Statement](https://leetcode.com/problems/path-with-minimum-effort/) <br>
@@ -108,9 +111,6 @@ __• Find the Smallest Divisor Given a Threshold__<br>
 
 __• Minimized Maximum of Products Distributed to Any Store__<br> 
 [Problem Statement](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) <br>
-
-__• Heaters__<br> 
-[Problem Statement](https://leetcode.com/problems/heaters/) <br>
 
 __• Minimum Absolute Sum Difference__<br> 
 [Problem Statement](https://leetcode.com/problems/minimum-absolute-sum-difference/) <br>
