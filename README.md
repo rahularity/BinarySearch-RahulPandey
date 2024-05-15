@@ -17,107 +17,53 @@ __3. Generic Binary Search Template__<br>
 [Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic%20BS%20Template.cpp)<br><br>
 
 ---
+
 ## Practice Problems on Binary Search
-
-### Easy:
-__1. Binary Search__<br>
-[Problem Statement](https://leetcode.com/problems/binary-search/)<br>
-Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp) | [Java]()
-
-__2. Search Insert Position__<br>
-[Problem Statement](https://leetcode.com/problems/search-insert-position/)<br>
-Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/2.%20Search%20Insert%20Position.cpp) | [Java]()
-
-__3. First Bad Version__<br>
-[Problem Statement](https://leetcode.com/problems/first-bad-version/description/)<br>
-Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/3.%20First%20Bad%20Version.cpp) | [Java]()
-
-__4. Find Smallest Letter Greater Than Target__<br>
-[Problem Statement](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)<br>
-Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/4.%20Find%20smallest%20element%20greater%20than%20target.cpp) | [Java]()
-
-__5. Find the Distance Value Between Two Arrays__<br>
-[Problem Statement](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)<br>
-Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/5.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp) | [Java]()
-
-__6. Kth Missing Positive Number__<br>
-[Problem Statement](https://leetcode.com/problems/kth-missing-positive-number/description/)<br>
+### Easy
+| Problem Name                               | Link to Practice                                           | Code (Solution)                                              |
+|-------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| Binary Search                             | [LeetCode](https://leetcode.com/problems/binary-search/)   | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp), [Java]() |
+| Search Insert Position                    | [LeetCode](https://leetcode.com/problems/search-insert-position/) | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/2.%20Search%20Insert%20Position.cpp), [Java]() |
+| First Bad Version                         | [LeetCode](https://leetcode.com/problems/first-bad-version/description/) | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/3.%20First%20Bad%20Version.cpp), [Java]() |
+| Find Smallest Letter Greater Than Target  | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/4.%20Find%20smallest%20element%20greater%20than%20target.cpp), [Java]() |
+| Find the Distance Value Between Two Arrays| [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/5.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp), [Java]() |
+| Kth Missing Positive Number               | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/description/) |                                                              |
 
 ### Medium
-__7. Peak Index in a Mountain Array__<br>
-[Problem Statement](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)<br>
+| Problem Name                          | Link to Practice                                           | Code (Solution)                                              |
+|--------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| Peak Index in a Mountain Array       | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |                                                              |
+| Search in Rotated Sorted Array       | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |                                                              |
+| Search in Rotated Sorted Array II    | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |                                                              |
+| Find Minimum in Rotated Sorted Array| [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |                                                              |
+| Find First and Last Position of Element in Sorted Array| [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Problem1:%20First%20and%20Last%20Index%20of%20an%20element%20in%20sorted%20array.cpp) |
+| Single Element in a Sorted Array    | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) |                                                              |
 
-__8. Search in Rotated Sorted Array__<br>
-[Problem Statement](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-
-__9. Search in Rotated Sorted Array II__<br>
-[Problem Statement](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
-
-__10. Find Minimum in Rotated Sorted Array__<br>
-[Problem Statement](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
-
-__11. Find First and Last Position of Element in Sorted Array__<br>
-[Video](https://youtu.be/LsVgsor5tZ0)<br>
-[Problem Statement](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)<br>
-[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Problem1:%20First%20and%20Last%20Index%20of%20an%20element%20in%20sorted%20array.cpp)<br>
-
-__12. Single Element in a Sorted Array__<br>
-[Problem Statement](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-
-### Hard<br>
-__13. Median of Two Sorted Arrays__<br> 
-[Problem Statement](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-
-<br>
-
----
+### Hard
+| Problem Name                   | Link to Practice                                           | Code (Solution)                                              |
+|--------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| Median of Two Sorted Arrays    | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |                                                              |
 
 ## Binary Search on Answer:
-### Easy: <br>
+### Easy
+| Problem Name                     | Link to Practice                                           | Code (Solution)                                              |
+|---------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| Arranging Coins                  | [LeetCode](https://leetcode.com/problems/arranging-coins/) |                                                              |
 
-__• Arranging Coins__<br>
-[Problem Statement](https://leetcode.com/problems/arranging-coins/)
-
-
-### Medium:
-__• Minimum Size Subarray Sum__<br>
-[Problem Statement](https://leetcode.com/problems/minimum-size-subarray-sum/) <br>
-
-__• Capacity To Ship Packages Within D Days__<br> 
-[Problem Statement](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) <br>
-
-__• Koko Eating Bananas__<br> 
-[Problem Statement](https://leetcode.com/problems/koko-eating-bananas/) <br>
-
-__• Heaters__<br> 
-[Problem Statement](https://leetcode.com/problems/heaters/) <br>
-
-__• Find the Duplicate Number__<br> 
-[Problem Statement](https://leetcode.com/problems/find-the-duplicate-number/) <br>
-
-__• Kth Smallest Element in a Sorted Matrix__<br>
-[Problem Statement](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) <br>
-
-__• Minimum Size Subarray Sum__<br> 
-[Problem Statement](https://leetcode.com/problems/minimum-size-subarray-sum/) <br>
-
-__• Minimum Limit of Balls in a Bag__<br> 
-[Problem Statement](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) <br>
-
-__• Path With Minimum Effort__<br> 
-[Problem Statement](https://leetcode.com/problems/path-with-minimum-effort/) <br>
-
-__• Most Beautiful Item for Each Query__<br> 
-[Problem Statement](https://leetcode.com/problems/most-beautiful-item-for-each-query/) <br>
-
-__• Find the Smallest Divisor Given a Threshold__<br> 
-[Problem Statement](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) <br>
-
-__• Minimized Maximum of Products Distributed to Any Store__<br> 
-[Problem Statement](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) <br>
-
-__• Minimum Absolute Sum Difference__<br> 
-[Problem Statement](https://leetcode.com/problems/minimum-absolute-sum-difference/) <br>
-
-__• Frequency of the Most Frequent Element__<br> 
-[Problem Statement](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) <br>
+### Medium
+| Problem Name                       | Link to Practice                                           | Code (Solution)                                              |
+|-----------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| Minimum Size Subarray Sum          | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |                                                              |
+| Capacity To Ship Packages Within D Days| [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |                                                              |
+| Koko Eating Bananas                | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) |                                                              |
+| Heaters                            | [LeetCode](https://leetcode.com/problems/heaters/)         |                                                              |
+| Find the Duplicate Number          | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) |                                                              |
+| Kth Smallest Element in a Sorted Matrix | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |                                                              |
+| Minimum Size Subarray Sum          | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |                                                              |
+| Minimum Limit of Balls in a Bag    | [LeetCode](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) |                                                              |
+| Path With Minimum Effort           | [LeetCode](https://leetcode.com/problems/path-with-minimum-effort/) |                                                              |
+| Most Beautiful Item for Each Query | [LeetCode](https://leetcode.com/problems/most-beautiful-item-for-each-query/) |                                                              |
+| Find the Smallest Divisor Given a Threshold | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) |                                                              |
+| Minimized Maximum of Products Distributed to Any Store | [LeetCode](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) |                                                              |
+| Minimum Absolute Sum Difference    | [LeetCode](https://leetcode.com/problems/minimum-absolute-sum-difference/) |                                                              |
+| Frequency of the Most Frequent Element | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |                                                              |
