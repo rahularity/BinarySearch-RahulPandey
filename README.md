@@ -21,7 +21,7 @@ __3. Generic Binary Search Template__<br>
 
 ### Easy:
 __1. Problem 1: Binary Search__<br>
-[Problem Statement](https://leetcode.com/problems/binary-search/)<br>{:target="_blank"}
+[Problem Statement](https://leetcode.com/problems/binary-search/){:target="_blank"}<br>
 [Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp)
 
 __2. Problem 2: Search Insert Position__<br>
