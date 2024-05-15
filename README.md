@@ -22,23 +22,26 @@ __3. Generic Binary Search Template__<br>
 ### Easy:
 __1. Binary Search__<br>
 [Problem Statement](https://leetcode.com/problems/binary-search/)<br>
-[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp)
+Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp) | [Java]()
 
 __2. Search Insert Position__<br>
 [Problem Statement](https://leetcode.com/problems/search-insert-position/)<br>
+Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/2.%20Search%20Insert%20Position.cpp) | [Java]()
 
 __3. First Bad Version__<br>
 [Problem Statement](https://leetcode.com/problems/first-bad-version/description/)<br>
+Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/3.%20First%20Bad%20Version.cpp) | [Java]()
 
 __4. Find Smallest Letter Greater Than Target__<br>
 [Problem Statement](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)<br>
+Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/4.%20Find%20smallest%20element%20greater%20than%20target.cpp) | [Java]()
 
 __5. Find the Distance Value Between Two Arrays__<br>
 [Problem Statement](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)<br>
+Code : [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/5.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp) | [Java]()
 
 __6. Kth Missing Positive Number__<br>
 [Problem Statement](https://leetcode.com/problems/kth-missing-positive-number/description/)<br>
-
 
 ### Medium
 __7. Peak Index in a Mountain Array__<br>
