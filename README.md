@@ -21,11 +21,10 @@ __3. Generic Binary Search Template__<br>
 
 ### Easy:
 __1. Binary Search__<br>
-[Problem Statement](https://leetcode.com/problems/binary-search/){:target="_blank"}<br>
-[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp){:target="_blank"}
+<a href="https://leetcode.com/problems/binary-search/" target="_blank" rel="noopener noreferrer">Problem Statement</a> | <a href="https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp" target="_blank" rel="noopener noreferrer">Code</a>
 
 __2. Search Insert Position__<br>
-[Problem Statement](https://leetcode.com/problems/search-insert-position/){:target="_blank"}<br>
+<a href="https://leetcode.com/problems/search-insert-position/" target="_blank" rel="noopener noreferrer">Problem Statement</a>
 
 __3. First Bad Version__<br>
 [Problem Statement](https://leetcode.com/problems/first-bad-version/description/){:target="_blank"}<br>
