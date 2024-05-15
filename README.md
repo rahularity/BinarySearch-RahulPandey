@@ -44,6 +44,7 @@ __3. Generic Binary Search Template__<br>
 |--------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
 | Median of Two Sorted Arrays    | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |                                                              |
 
+<br><br>
 ## Binary Search on Answer:
 ### Easy
 | Problem Name                     | Link to Practice                                           | Code (Solution)                                              |
