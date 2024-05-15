@@ -1,30 +1,28 @@
-# Welcome to BinarySearch-RahulPandey 🚀
+# 🌟 Welcome to BinarySearch-RahulPandey 🌟
+
+### 🚀 Explore the Ultimate Binary Search Experience
 
 This repository contains all the code from my **[Binary Search YouTube Playlist](https://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)**.
 
 ![Ultimate Generic Binary Search Template](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic-BinarySearch-Template.png)
 
 ## The Ultimate Binary Search Template for all BS solutions ✨
-
----
-
-### Standard Binary Search 🎯
+### 🎯 Standard Binary Search
 - **[Video](https://youtu.be/ZxYuNSLo5Gg)**
 - **[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Standard%20Binary%20Search.cpp)**
 
-### LowerBound and UpperBound 📈
+### 📈 LowerBound and UpperBound
 - **[Video](https://youtu.be/kXu6sSMnL6A)**
 - **[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Lower%20and%20Upper%20Bound.cpp)**
 
-### Generic Binary Search Template 🧩
+### 🧩 Generic Binary Search Template
 - **[Video](https://youtu.be/o3u-_gEUAVk)**
 - **[Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic%20BS%20Template.cpp)**
 
 ---
 
-## Practice Problems on Binary Search 💡
-
-### Easy
+## 💡 Practice Problems on Binary Search
+### 🟢 Easy
 | Problem Name                               | LeetCode Practice                                  | Code (Solution) |
 |--------------------------------------------|----------------------------------------------------|-----------------|
 | Binary Search                              | [Problem](https://leetcode.com/problems/binary-search/)   | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp), [Java]() |
@@ -34,7 +32,7 @@ This repository contains all the code from my **[Binary Search YouTube Playlist]
 | Find the Distance Value Between Two Arrays | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) | [Cpp](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/cpp/5.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp), [Java]() |
 | Kth Missing Positive Number                | [Problem](https://leetcode.com/problems/kth-missing-positive-number/description/) |                 |
 
-### Medium
+### 🔵 Medium
 | Problem Name                             | LeetCode Practice                                  | Code (Solution) |
 |------------------------------------------|----------------------------------------------------|-----------------|
 | Peak Index in a Mountain Array          | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |                 |
@@ -44,20 +42,19 @@ This repository contains all the code from my **[Binary Search YouTube Playlist]
 | Find First and Last Position of Element in Sorted Array | [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Problem1:%20First%20and%20Last%20Index%20of%20an%20element%20in%20sorted%20array.cpp) |
 | Single Element in a Sorted Array        | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) |                 |
 
-### Hard
+### 🔴 Hard
 | Problem Name                        | LeetCode Practice                                  | Code (Solution) |
 |------------------------------------|----------------------------------------------------|-----------------|
 | Median of Two Sorted Arrays         | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) |                 |
 
 <br><br>
-## Binary Search on Answer:
-
-### Easy
+## 🌈 Binary Search on Answer:
+### 🟢 Easy
 | Problem Name                  | LeetCode Practice                                  | Code (Solution) |
 |------------------------------|----------------------------------------------------|-----------------|
 | Arranging Coins               | [Problem](https://leetcode.com/problems/arranging-coins/) |                 |
 
-### Medium
+### 🔵 Medium
 | Problem Name                        | LeetCode Practice                                  | Code (Solution) |
 |------------------------------------|----------------------------------------------------|-----------------|
 | Minimum Size Subarray Sum          | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) |                 |
