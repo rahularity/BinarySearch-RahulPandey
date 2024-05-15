@@ -1,5 +1,5 @@
 # BinarySearch-RahulPandey
-This repository contains all the code from my __[Binary Search Youtube Playlist](http://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)__
+This repository contains all the code from my __<a href="http://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL" target="_blank">Binary Search Youtube Playlist</a>__
 
 ![Ultimate Generic Binary Search Template](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic-BinarySearch-Template.png)
 ### The Ultimate Binary Search Template for all BS solutions
@@ -118,4 +118,3 @@ __• Minimum Absolute Sum Difference__<br>
 
 __• Frequency of the Most Frequent Element__<br> 
 <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Problem Statement</a> <br>
-
