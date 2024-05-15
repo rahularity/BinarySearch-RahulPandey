@@ -101,4 +101,21 @@ __• Minimum Size Subarray Sum__<br>
 __• Minimum Limit of Balls in a Bag__<br> 
 <a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/" target="_blank">Problem Statement</a> <br>
 
-__• Path With Minimum Effort
+__• Path With Minimum Effort__<br> 
+<a href="https://leetcode.com/problems/path-with-minimum-effort/" target="_blank">Problem Statement</a> <br>
+
+__• Most Beautiful Item for Each Query__<br> 
+<a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/" target="_blank">Problem Statement</a> <br>
+
+__• Find the Smallest Divisor Given a Threshold__<br> 
+<a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/" target="_blank">Problem Statement</a> <br>
+
+__• Minimized Maximum of Products Distributed to Any Store__<br> 
+<a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/" target="_blank">Problem Statement</a> <br>
+
+__• Minimum Absolute Sum Difference__<br> 
+<a href="https://leetcode.com/problems/minimum-absolute-sum-difference/" target="_blank">Problem Statement</a> <br>
+
+__• Frequency of the Most Frequent Element__<br> 
+<a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Problem Statement</a> <br>
+
