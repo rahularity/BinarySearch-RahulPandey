@@ -20,49 +20,49 @@ __3. Generic Binary Search Template__<br>
 ## Practice Problems on Binary Search
 
 ### Easy:
-__1. Problem 1: Binary Search__<br>
+__1. Binary Search__<br>
 <a href="https://leetcode.com/problems/binary-search/" target="_blank">Problem Statement</a><br>
 <a href="https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp" target="_blank">Code</a>
 
-__2. Problem 2: Search Insert Position__<br>
+__2. Search Insert Position__<br>
 <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Problem Statement</a><br>
 
-__3. Problem 3: First Bad Version__<br>
+__3. First Bad Version__<br>
 <a href="https://leetcode.com/problems/first-bad-version/description/" target="_blank">Problem Statement</a><br>
 
-__4. Problem 4: Find Smallest Letter Greater Than Target__<br>
+__4. Find Smallest Letter Greater Than Target__<br>
 <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/" target="_blank">Problem Statement</a><br>
 
-__5. Problem 5: Find the Distance Value Between Two Arrays__<br>
+__5. Find the Distance Value Between Two Arrays__<br>
 <a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/" target="_blank">Problem Statement</a><br>
 
-__6. Problem 6: Kth Missing Positive Number__<br>
+__6. Kth Missing Positive Number__<br>
 <a href="https://leetcode.com/problems/kth-missing-positive-number/description/" target="_blank">Problem Statement</a><br>
 
 
 ### Medium
-__7. Problem 7: Peak Index in a Mountain Array__<br>
+__7. Peak Index in a Mountain Array__<br>
 <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/" target="_blank">Problem Statement</a><br>
 
-__8. Problem 8: Search in Rotated Sorted Array__<br>
+__8. Search in Rotated Sorted Array__<br>
 <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/" target="_blank">Problem Statement</a>
 
-__9. Problem 9: Search in Rotated Sorted Array II__<br>
+__9. Search in Rotated Sorted Array II__<br>
 <a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/" target="_blank">Problem Statement</a>
 
-__10. Problem 11: Find Minimum in Rotated Sorted Array__<br>
+__10. Find Minimum in Rotated Sorted Array__<br>
 <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/" target="_blank">Problem Statement</a>
 
-__11. Problem 11: Find First and Last Position of Element in Sorted Array__<br>
+__11. Find First and Last Position of Element in Sorted Array__<br>
 <a href="https://youtu.be/LsVgsor5tZ0" target="_blank">Video</a><br>
 <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Problem Statement</a><br>
 <a href="https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Problem1:%20First%20and%20Last%20Index%20of%20an%20element%20in%20sorted%20array.cpp" target="_blank">Code</a><br>
 
-__12. Problem 12: Single Element in a Sorted Array__<br>
+__12. Single Element in a Sorted Array__<br>
 <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/" target="_blank">Problem Statement</a>
 
 ### Hard<br>
-__13. Problem 13: Median of Two Sorted Arrays__<br> 
+__13. Median of Two Sorted Arrays__<br> 
 <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">Problem Statement</a>
 
 <br>
