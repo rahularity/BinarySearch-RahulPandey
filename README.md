@@ -1,5 +1,5 @@
 # BinarySearch-RahulPandey
-This repository contains all the code from my [Binary Search Youtube Playlist](https://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)__
+This repository contains all the code from my __[Binary Search Youtube Playlist](https://www.youtube.com/playlist?list=PL-XOF8kAzhAVdv65Oi3o-VNjXzcQzVJwL)__
 
 ![Ultimate Generic Binary Search Template](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Generic%20Binary%20Search%20Template/Generic-BinarySearch-Template.png)
 ### The Ultimate Binary Search Template for all BS solutions
@@ -20,49 +20,49 @@ __3. Generic Binary Search Template__<br>
 ## Practice Problems on Binary Search
 
 ### Easy:
-__1. Problem 1: Binary Search__<br>
+__1. Binary Search__<br>
 [Problem Statement](https://leetcode.com/problems/binary-search/)<br>
 [Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Practice%20Problems/Problem%201%3A%20Binary%20Search.cpp)
 
-__2. Problem 2: Search Insert Position__<br>
+__2. Search Insert Position__<br>
 [Problem Statement](https://leetcode.com/problems/search-insert-position/)<br>
 
-__3. Problem 3: First Bad Version__<br>
+__3. First Bad Version__<br>
 [Problem Statement](https://leetcode.com/problems/first-bad-version/description/)<br>
 
-__4. Problem 4: Find Smallest Letter Greater Than Target__<br>
+__4. Find Smallest Letter Greater Than Target__<br>
 [Problem Statement](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)<br>
 
-__5. Problem 5: Find the Distance Value Between Two Arrays__<br>
+__5. Find the Distance Value Between Two Arrays__<br>
 [Problem Statement](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)<br>
 
-__6. Problem 6: Kth Missing Positive Number__<br>
+__6. Kth Missing Positive Number__<br>
 [Problem Statement](https://leetcode.com/problems/kth-missing-positive-number/description/)<br>
 
 
 ### Medium
-__7. Problem 7: Peak Index in a Mountain Array__<br>
+__7. Peak Index in a Mountain Array__<br>
 [Problem Statement](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)<br>
 
-__8. Problem 8: Search in Rotated Sorted Array__<br>
+__8. Search in Rotated Sorted Array__<br>
 [Problem Statement](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
-__9. Problem 9: Search in Rotated Sorted Array II__<br>
+__9. Search in Rotated Sorted Array II__<br>
 [Problem Statement](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 
-__10. Problem 11: Find Minimum in Rotated Sorted Array__<br>
+__10. Find Minimum in Rotated Sorted Array__<br>
 [Problem Statement](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
-__11. Problem 11: Find First and Last Position of Element in Sorted Array__<br>
+__11. Find First and Last Position of Element in Sorted Array__<br>
 [Video](https://youtu.be/LsVgsor5tZ0)<br>
 [Problem Statement](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)<br>
 [Code](https://github.com/rahularity/BinarySearch-RahulPandey/blob/main/Problem1:%20First%20and%20Last%20Index%20of%20an%20element%20in%20sorted%20array.cpp)<br>
 
-__12. Problem 12: Single Element in a Sorted Array__<br>
+__12. Single Element in a Sorted Array__<br>
 [Problem Statement](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 ### Hard<br>
-__13. Problem 13: Median of Two Sorted Arrays__<br> 
+__13. Median of Two Sorted Arrays__<br> 
 [Problem Statement](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 <br>
