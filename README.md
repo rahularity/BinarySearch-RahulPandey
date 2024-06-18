@@ -65,7 +65,6 @@ This repository contains all the code from my **[Binary Search YouTube Playlist]
 | Kth Smallest Element in a Sorted Matrix | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |                 |
 | Minimum Size Subarray Sum          | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) |                 |
 | Minimum Limit of Balls in a Bag    | [Problem](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) |                 |
-| Path With Minimum Effort           | [Problem](https://leetcode.com/problems/path-with-minimum-effort/) |                 |
 | Most Beautiful Item for Each Query | [Problem](https://leetcode.com/problems/most-beautiful-item-for-each-query/) |                 |
 | Find the Smallest Divisor Given a Threshold | [Problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) |                 |
 | Minimized Maximum of Products Distributed to Any Store | [Problem](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) |                 |
